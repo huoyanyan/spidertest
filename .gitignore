@@ -3,3 +3,5 @@
 .settings/
 crawl_weibo/
 target/
+crawl_weixin/
+wx_history.txt

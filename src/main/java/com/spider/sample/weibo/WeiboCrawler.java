@@ -21,7 +21,7 @@ public class WeiboCrawler extends BreadthCrawler {
 	public WeiboCrawler(String crawlPath) throws Exception {
 		super(crawlPath, false);
 		/* 获取新浪微博的cookie，账号密码以明文形式传输，请使用小号 */
-		cookie = WeiboCN.getSinaCookie("531262857@qq.com", "pd123");
+		cookie = WeiboCN.getSinaCookie("53***@qq.com", "pd123");
 
 		// 设置线程数
 		setThreads(3);
