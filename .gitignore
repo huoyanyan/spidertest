@@ -1,0 +1,5 @@
+.project
+.classpath
+.settings/
+crawl_weibo/
+target/
